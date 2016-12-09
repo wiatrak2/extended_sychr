@@ -2,7 +2,12 @@
 # Rozszerzony problem producenta i konsumenta
 
 Tomasz Nanowski
+
 Wojciech Pratkowiecki
+
+Projekt w ramach przedmiotu Systemy Operacyjne, smestr zimowy 2016/17, II UWr
+
+Oryginalne repozytorium: https://github.com/AThom0x7cc/SO-P1
 
 ## Opis problemu
 
